@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-🔭 I'm currently working on Computer Vision, Machine Learning, and Deep Learning
-🌱 I'm currently learning Web Development (Laravel/PHP)
+🔭 I'm currently working on Computer Vision, Machine Learning, and Deep Learning   
+🌱 I'm currently learning Web Development (Laravel/PHP)   
 ⚡ Proficient in Database (MySQL, SQLite), Java, PHP, Python, HTML, and CSS
 
 
